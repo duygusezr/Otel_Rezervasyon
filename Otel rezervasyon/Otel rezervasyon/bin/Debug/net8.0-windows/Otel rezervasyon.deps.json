@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Otel rezervasyon/1.0.0": {
+        "runtime": {
+          "Otel rezervasyon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otel rezervasyon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
